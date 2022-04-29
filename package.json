@@ -1,0 +1,24 @@
+{
+  "name": "express-pug-example",
+  "version": "1.0.0",
+  "description": "node express server with pug templates hosted on tiramisu.cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://giorgio-zamparelli@github.com/tiramisu-cloud/express-pug-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiramisu-cloud/express-pug-example/issues"
+  },
+  "homepage": "https://github.com/tiramisu-cloud/express-pug-example#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "pug": "^3.0.2"
+  }
+}
